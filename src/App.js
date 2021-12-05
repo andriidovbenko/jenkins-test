@@ -14,7 +14,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>test dar</p>
+        <p>test</p>
       </header>
     </div>
   );
